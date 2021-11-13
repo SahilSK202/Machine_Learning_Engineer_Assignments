@@ -23,7 +23,8 @@ The objective of this project is to scrape the wikipedia pages of your tip 5 fav
 ## Further Improvements 💪
 
 1. Class can be improved by adding more functions.
-2. More data can be scraped.
-3. More Validations can be added.
-4. A simple GUI can be made using Tkinter.
-5. Web application can be made using flask
+2. Data cleaning and processing can be done within class.
+3. More data can be scraped.
+4. More Validations can be added.
+5. A simple GUI can be made using Tkinter.
+6. Web application can be made using flask
